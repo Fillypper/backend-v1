@@ -1,4 +1,3 @@
-const nome = "Fillypper"
-nome = "Joao"
-
-console.log(nome);
+const idade = 26
+const resultado = idade >= 18 ? "Maior de idade" : "Menor de idade"
+console.log(resultado);
